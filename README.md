@@ -25,14 +25,23 @@ Pairs Game, a classic memory card game where players flip over cards to find mat
 
 ## Screenshots
 
-![Game Start](screenshots/game_start.png)
-*Game Start Screen*
+<p align="center">
+  <img src="screenshots/game_start.png" alt="Game Start" width="200"/>
+  <br/>
+  <em>Game Start Screen</em>
+</p>
 
-![Card Flipped](screenshots/card_flipped.png)
-*Card Flipped*
+<p align="center">
+  <img src="screenshots/card_flipped.png" alt="Card Flipped" width="200"/>
+  <br/>
+  <em>Card Flipped</em>
+</p>
 
-![You Win](screenshots/you_win.png)
-*Winning Screen*
+<p align="center">
+  <img src="screenshots/you_win.png" alt="You Win" width="200"/>
+  <br/>
+  <em>Winning Screen</em>
+</p>
 
 ## Requirements
 
